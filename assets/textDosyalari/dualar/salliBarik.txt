@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Salli ve Barik Duaları</title>
+</head>
+<body>
+    <h1>Allahümme Salli ve Allahümme Barik Duaları</h1>
+    <p><strong>Allahümme Salli ve Allahümme Barik duaları</strong>, namazlarda oturuş sırasında okunan iki duadır. Kısaca Salli Barik diye bilinen bu dualar, Peygamber Efendimiz'e (sav) salavat getirilen dualar olarak çok faziletlidir ve Salavat Duaları olarak da bilinir. Salli ve barik dualarının okunuşu ve Türkçe anlamlarını aşağıdan inceleyebilir, sesli okunuşlarını dinleyebilirsiniz.</p>
+
+    <h2>Allahümme Salli Okunuşu</h2>
+    <p><strong>Allâhümme salli alâ Muhammedin ve alâ âli Muhammed.<br>
+    Kemâ salleyte alâ İbrahime ve alâ âli İbrahim.<br>
+    İnneke hamidün mecîd.</strong></p>
+
+    <h2>Allahümme Barik Okunuşu</h2>
+    <p><strong>Allâhümme bârik alâ Muhammedin ve alâ âli Muhammed.<br>
+    Kemâ bârekte alâ İbrahime ve alâ âli İbrahim.<br>
+    İnneke hamidün mecîd.</strong></p>
+
+    <h2>Allahümme Salli Anlamı</h2>
+    <p>Ey Allah'ım! İbrâhîm'e "Aleyhisselâm" ve âline (ailesine) rahmet ettiğin gibi, (Efendimiz) Muhammed'e "aleyhisselâm" ve âline de rahmet eyle. Muhakkak Sen hamîd (övülen) ve mecîdsin (şanı büyük).</p>
+
+    <h2>Allahümme Barik Anlamı</h2>
+    <p>Ey Allah'ım! İbrâhîm'e Aleyhisselâm ve âline bereketler ihsan ettiğin gibi, (Efendimiz) Muhammed'e "aleyhisselâm" ve âline de bereketler ihsan eyle. Muhakkak Sen hamîd (övülen) ve mecîd'sin (şanı büyük).</p>
+</body>
+</html>

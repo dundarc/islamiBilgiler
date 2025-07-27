@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Kureyş Suresi Türkçe Yazılışı ve Okunuşu</title>
+</head>
+<body>
+    <p><strong>Kureyş Suresinin Türkçe Yazılışı ve Okunuşu</strong></p>
+    <p><em>-Bismillâhi’r-Rahmâni’r-Rahîm.</em></p>
+    <p><em>1- Li îlâfi kurayş.</em></p>
+    <p><em>2- Îlâfihim rihlete’ş-şitâi ve’s-sayf.</em></p>
+    <p><em>3- Felya’budû Rabbe hâze’l-beyt.</em></p>
+    <p><em>4- Ellezî et’amehum min cû’in ve âmenehum min havf.</em></p>
+    <p><strong>Kureyş Suresinin Anlamı</strong></p>
+    <p><em>-Rahmân ve Rahîm olan Allah’ın adıyla.</em></p>
+    <p><em>1- Kureyş’in emniyetini sağladığı,</em></p>
+    <p><em>2- Yaz ve kış yolculuğunda onları ısındırıp yakınlaştırdığı için onlar,</em></p>
+    <p><em>3- Bu evin (Kâbe’nin) Rabbine kulluk etsinler.</em></p>
+    <p><em>4- Ki O (Allah) kendilerini açlıktan (kurtarıp) doyuran ve her çeşit korkudan güvenliğe kavuşturandır.</em></p>
+</body>
+</html>

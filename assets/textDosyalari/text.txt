@@ -1,0 +1,3 @@
+Dosya içeriği boş lütfen dosya yolunu kontrol edin <br>
+
+Bu dosya textDosyalari/text.txt'dir

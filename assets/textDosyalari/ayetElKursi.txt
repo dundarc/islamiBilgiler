@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ayet-el Kürsi Okunuşu ve Anlamı</title>
+</head>
+<body>
+    <p><strong>Ayet-el Kürsi Okunuşu</strong></p>
+    <p><em>Allâhu lâ ilâhe illâ huve’l-hayyu’l-kayyûm.</em></p>
+    <p><em>Lâ te’huzuhû sinetun ve lâ nevm.</em></p>
+    <p><em>Lehû mâ fi’s-semâvâti ve mâ fi’l-ardı.</em></p>
+    <p><em>Men zellezî yeşfe’u ‘ındehû illâ bi iznih.</em></p>
+    <p><em>Ya’lemu mâ beyne eydîhim ve mâ halfehum.</em></p>
+    <p><em>Ve lâ yuhîtûne bi şey’in min ‘ılmihî illâ bimâ şâe.</em></p>
+    <p><em>Vesi’a kursiyyuhu’s-semâvâti ve’l-arda.</em></p>
+    <p><em>Ve lâ yeûduhû hıfzuhumâ ve huve’l-‘aliyyu’l-‘azîm.</em></p>
+    <p><strong>Ayet-el Kürsi Anlamı</strong></p>
+    <p><em>O'ndan başka ilah olmayan Allah, hay ve kayyumdur (ezel ve ebedidir).</em></p>
+    <p><em>O'nu uyuklama ve uyku tutmaz.</em></p>
+    <p><em>Göklerde ve yerlerde olan şeyler O'nundur.</em></p>
+    <p><em>İzni olmaksızın O'nun yanında şefaat eden yoktur.</em></p>
+    <p><em>Halkın önünde ve arkasında olanı (istikbal ve maziyi) bilir.</em></p>
+    <p><em>İnsanlar O'nun ilminden, O'nun isteğinden başkasını ihata edemezler.</em></p>
+    <p><em>Kürsisi semaları ve yeri içine alır.</em></p>
+    <p><em>Onların hıfzı O'nu (Cenab-ı Ecelli Ala'yı) yormaz.</em></p>
+    <p><em>O, pek yüksek ve büyüktür.</em></p>
+</body>
+</html>

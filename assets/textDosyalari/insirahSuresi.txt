@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>İnşirah Suresi Okunuşu</title>
+</head>
+<body>
+    <p><strong>İnşirah Suresi Okunuşu</strong></p>
+    <p><em>-Bismillâhi’r-Rahmâni’r-Rahîm.</em></p>
+    <p><em>1- Elem neşrah leke sadrâk.</em></p>
+    <p><em>2- Ve vada’nâ ’anke vizrâk.</em></p>
+    <p><em>3- Elleziy enkada zahrâk.</em></p>
+    <p><em>4- Ve refa’nâ leke zikrâk.</em></p>
+    <p><em>5- Feinne me’al’usri yusrâ.</em></p>
+    <p><em>6- İnne me’al’usri yusrâ.</em></p>
+    <p><em>7- Feizâ ferağte fensab.</em></p>
+    <p><em>8- Ve ila Rabbike ferğab.</em></p>
+    <p><strong>İnşirah Suresinin Anlamı, Meali</strong></p>
+    <p><em>-Rahmân ve Rahîm olan Allah’ın adıyla.</em></p>
+    <p><em>1- Biz senin göğsünü açıp genişletmedik mi?</em></p>
+    <p><em>2-3 Belini büken yükünü senden alıp atmadık mı?</em></p>
+    <p><em>4- Senin şânını ve ününü yüceltmedik mi?</em></p>
+    <p><em>5-6 Elbette zorluğun yanında bir kolaylık vardır. Gerçekten, zorlukla beraber bir kolaylık daha vardır.</em></p>
+    <p><em>7-8 Boş kaldın mı hemen (başka) işe koyul ve yalnız Rabbine yönel.</em></p>
+</body>
+</html>

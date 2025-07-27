@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Kafirun Suresi Türkçe Yazılışı ve Okunuşu</title>
+</head>
+<body>
+    <p><strong>Kafirun Suresinin Türkçe Yazılışı ve Okunuşu</strong></p>
+    <p><em>-Bismillâhi’r-Rahmâni’r-Rahîm.</em></p>
+    <p><em>1- Gul yâ eyyuhe’l-kâfirûn.</em></p>
+    <p><em>2- Lâ a’budu mâ ta’budûn.</em></p>
+    <p><em>3- Ve lâ entum âbidûne mâ a’bud.</em></p>
+    <p><em>4- Velâ ene âbidun mâ abettum.</em></p>
+    <p><em>5- Velâ entum âbidûne mâ a’bud.</em></p>
+    <p><em>6- Lekum dînukum veliye dîn.</em></p>
+    <p><strong>Kafirun Suresinin Anlamı</strong></p>
+    <p><em>-Rahmân ve Rahîm olan Allah’ın adıyla.</em></p>
+    <p><em>1- De ki: Ey kâfirler.</em></p>
+    <p><em>2- Ben sizin taptıklarınıza tapmam.</em></p>
+    <p><em>3- Siz de benim ibadet ettiğime ibadet edecek değilsiniz.</em></p>
+    <p><em>4- Ben de sizin taptıklarınıza tapacak değilim.</em></p>
+    <p><em>5- Siz de benim ibadet ettiğime, ibadet edecek değilsiniz.</em></p>
+    <p><em>6- Sizin dininiz size, benim dinim bana.</em></p>
+</body>
+</html>

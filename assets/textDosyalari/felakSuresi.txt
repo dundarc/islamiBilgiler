@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Felak Suresi Türkçe Okunuşu</title>
+</head>
+<body>
+    <p><strong>Bismillâhirrahmânirrahîm.</strong></p>
+    <p><em>Kul e’ûzu bi-Rabbi’l-felak.</em></p>
+    <p><em>Min şerri mâ halak.</em></p>
+    <p><em>Ve min şerri ğâsikın izâ vekab.</em></p>
+    <p><em>Ve min şerri'n-neffâsâti fi’l-ukad.</em></p>
+    <p><em>Ve min şerri hâsidin izâ hased.</em></p>
+    <p><strong>FELAK SURESİ ANLAMI</strong></p>
+    <p><em>Rahmân ve Rahîm olan Allah’ın adıyla.</em></p>
+    <p><em>De ki: Ben, sabahı yarıp aydınlığa çıkaran Rabbe sığınırım.</em></p>
+    <p><em>O'nun yarattıklarının şerrinden,</em></p>
+    <p><em>Karanlık çöktüğü zaman gecenin şerrinden,</em></p>
+    <p><em>Düğümlere üfleyenlerin şerrinden,</em></p>
+    <p><em>Ve hased ettiği zaman hasetçinin şerrinden (Allah'a sığınırım).</em></p>
+</body>
+</html>

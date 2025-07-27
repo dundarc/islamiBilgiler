@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Nasr Suresi Türkçe Yazılışı ve Okunuşu</title>
+</head>
+<body>
+    <p><strong>Nasr Suresinin Türkçe Yazılışı ve Okunuşu</strong></p>
+    <p><em>-Bismillâhi’r-Rahmâni’r-Rahîm.</em></p>
+    <p><em>1- “İzâ câe nasrullâhi ve’l-fethu.</em></p>
+    <p><em>2- Ve raeyte’n-nâse yedhulûne fî dînillâhi efvâcâ.</em></p>
+    <p><em>3- Fe sebbih bi-hamdi Rabbike vestağfirhu innehû kâne tevvâbâ.</em></p>
+    <p><strong>Nasr Suresinin Türkçe Anlamı</strong></p>
+    <p><em>-Rahmân ve Rahîm olan Allah’ın adıyla.</em></p>
+    <p><em>1- “Allah’ın yardımı ve fetih geldiği zaman,</em></p>
+    <p><em>2- Ve insanların, Allah’ın dinine dalga dalga girdiklerini gördüğün zaman,</em></p>
+    <p><em>3- Hemen Rabbini överek tesbih et ve O’ndan mağfiret dile. Çünkü O, tevbeleri çok kabul edendir.</em></p>
+</body>
+</html>

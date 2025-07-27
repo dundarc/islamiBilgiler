@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Fatiha Suresinin Anlamı</title>
+</head>
+<body>
+    <p><strong>Fatiha Suresi Okunuşu </strong></p>
+    Bismillahirrahmanirrahim <br>
+
+    Elhamdulillâhi rabbil'alemin <br>
+
+    Errahmânir'rahim <br>
+
+    Mâliki yevmiddin <br>
+
+    İyyâke na'budu Ve iyyâke neste'în <br>
+
+    İhdinessirâtal mustakîm <br>
+
+    Sirâtallezine en'amte aleyhim <br>
+
+    Ğayrilmağdûbi aleyhim ve leddâllîn <br>
+    <p><strong>Fatiha Suresinin Anlamı</strong></p>
+    <p>1- Rahmân ve Rahîm olan Allah'ın ismiyle.</p>
+    <p>2,3,4- Hamd, Âlemlerin Rabbi, Rahmân, Rahîm, hesap ve ceza gününün (ahiret gününün) maliki Allah'a mahsustur.</p>
+    <p>5- (Allahım!) Yalnız sana ibadet ederiz ve yalnız senden yardım dileriz.</p>
+    <p>6,7- Bizi doğru yola, kendilerine nimet verdiklerinin yoluna ilet; gazaba uğrayanlarınkine ve sapıklarınkine değil.</p>
+    <p><em>Her namazda okuduğumuz ve Kuran-ı Kerim'de en çok okunan suredir. Namazlarda Fatiha suresini okumak vaciptir. Fatiha Süresi Kuran-ı Kerim'in ilk suresi olmakla birlikte aynı zamanda bir duadır. Bu nedenle Fatiha okunduktan sonra "amin" denir. Amin demek; "Dualarımızı kabul buyur, böyle olsun, bizi eli boş çevirme" anlamlarına gelir. Amin demek Fatiha suresine ait değildir ve bir ayet de değildir. Birçok hadiste Peygamber Efendimiz'in (sav) Fatiha’dan sonra "amin" dediği ve böyle denilmesini öğütlediği ifade edilmiştir.</em></p>
+    <p><strong>Fatiha kelime anlamı olarak “ilk, başlangıç, açan” demektir. Kuran-ı Kerim Fatiha'dan başlandığı için bu adı almıştır. Sureden önce nazil olan ayetler, ait oldukları surelerin parçalarıdır ve bu sureler Fatiha’dan sonra tamamlanmıştır.</strong></p>
+    <p><strong>Fatiha Suresi Konusu</strong></p>
+    <p><em>Fatiha suresinin konusu için diyanet işlerinde Kur’an-ı Kerim’in “bilinmesi ve inanılması gerekenler” ve “yapılması gerekenler” diye ikiye ayrılmakta. Birincisinde Allah, peygamberlik, gayb alemi hakkında bilgiler, öğütler, misaller, hikmetler vardır. İkincisinde ise ibadetler, hayat düzeni gibi ameli, ahlakî hükümler vardır. Fatiha süresi bütün bunları ya sözü veya özüyle ihtiva etmektedir ya da bu konularda aklın önünü açarak ona ışık tutmaktadır.</em></p>
+    <p><strong>Fatiha Suresi Faziletleri</strong></p>
+    <p><em>Fatiha suresi fazileti o kadar çoktur ki, hakkında bir çok hadis rivayet edilmiştir;</em></p>
+    <p><em>Peygamber Efendimiz'in (S.a.v.) hadis-i şerifine göre; "Zikrin en üstünü 'lâ ilâhe illallah', duanın en yücesi 'elhamdülillâh'tır" (Tirmizi)</em></p>
+    <p><em>Ebû Hüreyre (ra) rivayetine göre: Resulullah (s.a.v) buyurdular ki: "Kim Fatiha şerife suresini okumadan namaz kılarsa bilsin ki bu namaz nakıstır, eksiktir."</em></p>
+    <p><em>Surenin şifa özelliği hadislerde belirtilmiştir;</em></p>
+    <p><em>“Fatiha’yı okumak bütün dertlere devadır. Her nevi zehire karşı şifadır” (Feyzü’l – Kadir)</em></p>
+    <p><em>Fatiha suresi faziletlerinden biride nazarlardan korumasıdır;</em></p>
+    <p><em>“Fatiha ile Ayetel kürsiyi okuyana, o gün nazar değmez” (Deylemi)</em></p>
+    <p><em>Kuran’ın en büyük ve faziletli suresi Fatiha olduğu içinde ölmüşlerimizin arkasından da okunur.</em></p>
+    <p><em>“Sizden biri vefât ettiğinde onu fazla bekletmeyin! Onu serî bir şekilde kabrine götürün! Kabrinin baş ucunda Fatiha Suresi ve ayak ucunda da Bakara Suresi’nin sonu (Amenerrasulü) okunsun!” (Taberani)</em></p>
+    <p><em>Bu sure Kuran’ın özeti gibidir. Fatiha ile övgüye layık olan Allah’ın varlığı kabul edilir ve inanarak okuyanın Rabbine yaklaşılması murad edilir.</em></p>
+    <p><strong>Fatiha'yı ezberlemek</strong></p>
+    <p><em>Küçük yaşlardan itibaren ilk ezberlenen sure Fatihadır. Hem Kur’an’ın açılış suresi olması sebebiyle hem de faziletlerinin azameti ile Fatihayı her müslüman, çocuklarına ezberletmeye çalışır. Ezberlemenin yanı sıra; anlamı ve manasını da çocuklarımıza öğretmemiz daha doğru olacaktır. Böylece okurken ne okuduğu bilecek, Alemlerin rabbi Allah’ı bilecek, O’na şükrettiğin bilecek ve yine sadece Allah’tan yardım istediğini bilecektir.</em></p>
+    <p><em>"Allah'ım Bizi doğru yola, kendilerine nimet verdiklerinin yoluna ilet" dediğini bilerek içtenlikle "Amin" diyecektir.</em></p>
+</body>
+</html>

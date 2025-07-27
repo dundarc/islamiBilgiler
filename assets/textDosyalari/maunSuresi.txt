@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Maun Suresi Türkçe Yazılışı ve Okunuşu</title>
+</head>
+<body>
+    <p><strong>Maun Suresinin Türkçe Yazılışı ve Okunuşu</strong></p>
+    <p><em>-Bismillâhi’r-Rahmâni’r-Rahîm.</em></p>
+    <p><em>1- Eraeytellezî yukezzibu bi’d-dîn.</em></p>
+    <p><em>2- Fezâlike’l-lezî yedu’ul-yetîm.</em></p>
+    <p><em>3- Ve lâ yehuddu alâ ta’âmi’l-miskîn.</em></p>
+    <p><em>4- Feveylun lil-musallîn.</em></p>
+    <p><em>5- Ellezînehum an salâtihim sâhûn.</em></p>
+    <p><em>6- Ellezînehum yurâûn.</em></p>
+    <p><em>7- Ve yemne’ûne’l-mâ’ûn.</em></p>
+    <p><strong>Maun Suresinin Anlamı, Meali</strong></p>
+    <p><em>-Rahmân ve Rahîm olan Allah’ın adıyla.</em></p>
+    <p><em>1- Din gününü yalanlayanı gördün mü?</em></p>
+    <p><em>2- İşte o, yetimi itip kakar.</em></p>
+    <p><em>3- Yoksulu doyurmayı teşvik etmez.</em></p>
+    <p><em>4- Şu namaz kılanların vay haline!</em></p>
+    <p><em>5- Onlar namazlarından gafildirler.</em></p>
+    <p><em>6- Onlar gösteriş yaparlar.</em></p>
+    <p><em>7- Ve onlar en küçük bir yardımı da engellerler.</em></p>
+</body>
+</html>

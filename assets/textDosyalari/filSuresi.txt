@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Fil Suresi Türkçe Yazılışı ve Okunuşu</title>
+</head>
+<body>
+    <p><strong>Fil Suresinin Türkçe yazılışı ve Okunuşu</strong></p>
+    <p><em>-Bismillâhi’r-Rahmâni’r-Rahîm.</em></p>
+    <p><em>1- Elemtera keyfe fe’ale Rabbuke bi-ashâbi’l-fîl.</em></p>
+    <p><em>2- Elem yec’al keydehum fî tadlîl.</em></p>
+    <p><em>3- Ve ersele ’aleyhim tayran ebâbîl.</em></p>
+    <p><em>4- Termîhim bi-hicâratin min siccîl.</em></p>
+    <p><em>5- Fece’alehum ke’asfin me’kûl.</em></p>
+    <p><strong>Fil Suresinin Anlamı</strong></p>
+    <p><em>-Rahmân ve Rahîm olan Allah’ın adıyla.</em></p>
+    <p><em>1- Rabbin fil sahiplerine neler etti, görmedin mi?</em></p>
+    <p><em>2- Onların kötü planlarını boşa çıkarmadı mı?</em></p>
+    <p><em>3- Onların üstüne ebabil kuşları gönderdi.</em></p>
+    <p><em>4- O kuşlar, onların üzerlerine pişkin tuğladan yapılmış taşlar atıyordu.</em></p>
+    <p><em>5- Böylece Allah onları yenilip çiğnenmiş ekine çevirdi.</em></p>
+</body>
+</html>

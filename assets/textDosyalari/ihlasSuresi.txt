@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>İhlas Suresi Türkçe Yazılışı ve Okunuşu</title>
+</head>
+<body>
+    <p><strong>İhlas Suresinin Türkçe Yazılışı ve Okunuşu</strong></p>
+    <p><em>-Bismillâhi’r-Rahmâni’r-Rahîm.</em></p>
+    <p><em>1- Gul huvallâhu ehad.</em></p>
+    <p><em>2- Allâhu’s-samed.</em></p>
+    <p><em>3- Lem yelid ve lem yûled.</em></p>
+    <p><em>4- Ve lem yekun lehû kufuven ahad.</em></p>
+    <p><strong>İhlas Suresinin Anlamı, Meali</strong></p>
+    <p><em>-Rahmân ve Rahîm olan Allah’ın adıyla.</em></p>
+    <p><em>1- De ki: O Allah birdir.</em></p>
+    <p><em>2- Allah samed (her şey O’na muhtaç, O kimseye muhtaç değil)’dir.</em></p>
+    <p><em>3- O doğurmamıştır ve doğurulmamıştır.</em></p>
+    <p><em>4- Ve hiçbir şey O’nun dengi değildir.</em></p>
+</body>
+</html>

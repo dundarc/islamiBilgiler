@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Tebbet Suresi Türkçe Yazılışı ve Okunuşu</title>
+</head>
+<body>
+    <p><strong>Tebbet Suresinin Türkçe Yazılışı ve Okunuşu</strong></p>
+    <p><em>-Bismillâhi’r-Rahmâni’r-Rahîm.</em></p>
+    <p><em>1- Tebbet yedâ ebî lehebin ve tebb.</em></p>
+    <p><em>2- Mâ ağnâ ‘anhu mâluhû ve mâ keseb.</em></p>
+    <p><em>3- Seyaslâ nâran zâte leheb.</em></p>
+    <p><em>4- Vemraetuhû hammâlete’l-hatab.</em></p>
+    <p><em>5- Fî cîdihâ hablun min mesed.</em></p>
+    <p><strong>Tebbet Suresinin Anlamı</strong></p>
+    <p><em>-Rahmân ve Rahîm olan Allah’ın adıyla.</em></p>
+    <p><em>1- Ebu Leheb’in elleri kurusun, (yok olsun) zaten yok oldu ya.</em></p>
+    <p><em>2- Malı da, kazandıkları da kendisine bir yarar sağlamadı. (kurtarmadı)</em></p>
+    <p><em>3- (O) alevli bir ateşe girecektir.</em></p>
+    <p><em>4- Karısı da, odun hamalı (ve),</em></p>
+    <p><em>5- Boynunda bükülmüş bir ip olarak (ateşe girecektir.)</em></p>
+</body>
+</html>

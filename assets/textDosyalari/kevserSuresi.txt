@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Kevser Suresi Türkçe Yazılışı ve Okunuşu</title>
+</head>
+<body>
+    <p><strong>Kevser Suresinin Türkçe Yazılışı ve Okunuşu</strong></p>
+    <p><em>-Bismillâhi’r-Rahmâni’r-Rahîm.</em></p>
+    <p><em>1- İnnâ a’taynâ ke’l-kevser.</em></p>
+    <p><em>2- Fesalli li-Rabbike ve’nhar.</em></p>
+    <p><em>3- İnne şâni’eke huve’l-ebter</em></p>
+    <p><strong>Kevser Suresinin Anlamı</strong></p>
+    <p><em>-Rahmân ve Rahîm olan Allah’ın adıyla.</em></p>
+    <p><em>1- Şüphesiz biz sana Kevser’i verdik.</em></p>
+    <p><em>2- Öyleyse Rabbin için namaz kıl ve kurban kes.</em></p>
+    <p><em>3- Asıl sonu kesik olan, senin düşmanın (sana buğzeden)dir.</em></p>
+</body>
+</html>

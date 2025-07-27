@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rabbena Atina Duası</title>
+</head>
+<body>
+    <h1>Rabbena Atina Duası</h1>
+    <p><strong>Rabbena Duaları; Rabbena Atina ve Rabbena Firli dualarından oluşur. Rabbena Atina duası türkçe okunuşu, türkçe meali ve anlamı, sesli okunuşu ve Rabbena Duaları hakkında.</strong></p>
+
+    <h2>Rabbena Atina Duası</h2>
+    <p><strong>Rabbenâ âtinâ fid'dünyâ haseneten</strong><br>
+    <strong>ve fil'âhireti haseneten ve gınâ azâbennâr.</strong><br>
+    <strong>Birahmetike yâ Erhamerrahimîn.</strong></p>
+
+    <p><strong>Rabbena Atina Anlamı</strong><br>
+    Allah'ım! Bize dünyada iyilik ve güzellik, ahirette de iyilik, güzellik ver.<br>
+    Bizi ateş azabından koru.<br>
+    Ey Rabb'im, merhamet edenlerin merhamet edicisi, bize rahmetinle muamele eyle.</p>
+
+    <p>Rabbena Atina duası <em>Kuran-ı Kerim</em>'de yer alan bir ayettir;</p>
+    <p><em>“İnsanlardan öyleleri de vardır ki, "Ey rabbimiz! Bize bu dünyada da iyilik ver, öteki dünyada da iyilik ver; bizi cehennem azabından koru" derler.” (Bakara suresi , 201. ayet)</em></p>
+
+    <p>Peygamber efendimiz (<em>S.a.v.</em>) şöyle buyurmuşlardır;</p>
+    <p><em>"Duanın efdali, dünya ve ahirette Rabbinden af ve afiyet istemektir. Affa ve afiyete kavuşan, dünya ve ahirette kurtuluşa ermiştir." (Tirmizi)</em></p>
+
+    <h2>Rabbena Firli Duası</h2>
+    <p><strong>Rabbenâğfirlî ve li-vâlideyye ve lil-mü'minîne yevme</strong><br>
+    <strong>yekumü'l hisâb. Birahmetike yâ Erhamerrahimîn.</strong></p>
+    <h2>Rabbena Firli Anlamı</h2>
+    <p>Ey bizim Rabb'imiz! Beni, anamı ve babamı ve bütün mü'minleri hesap gününde bağışla.
+    Ey Rabb'im merhamet edenlerin merhamet edicisi, bize rahmetinle muamele eyle.
+    </p>
+
+
+</body>
+</html>

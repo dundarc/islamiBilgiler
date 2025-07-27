@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ettehiyyatü Duası Okunuşu ve Anlamı</title>
+</head>
+<body>
+    <h1>Ettehiyyatü Duası Okunuşu</h1>
+    <p><strong>Ettehiyyâtu lillâhi ve’s-salevâtu ve’t-tayyibâtu esselâmu ‘aleyke eyyuhe’n-nebiyyu ve rahmetullâhi ve berakâtuhû esselâmu ‘aleynâ ve ‘alâ ‘ıbâdillâhi’s-salihîn. Eşhedu en lâ ilâhe illallâh ve eşhedu enne Muhammeden ‘abduhû ve rasûluh.</strong></p>
+
+    <h2>Ettehiyyatü Duası Anlamı</h2>
+    <p>“Selam, rahmet ve bütün güzellikler, her türlü dil, beden ve mal ile yapılan ibadet Allah’a mahsustur. Ey Peygamber! Allah’ın rahmeti ve bereketleri senin üzerine olsun. Selâm bizlere ve Allah’ın sâlih kullarına olsun. Ben şahadet ederim (kesinlikle bilirim) ki, Allah’tan başka hiçbir ilâh yoktur. Ve şahadet ederim ki Hazret-i Muhammed Allah’ın kulu ve Resûlüdür.” (Ebu Dâvûd, “Salât”, 182. I, 591)</p>
+</body>
+</html>

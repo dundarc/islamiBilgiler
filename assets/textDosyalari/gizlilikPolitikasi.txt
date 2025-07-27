@@ -1,0 +1,49 @@
+<h1>İslam Rehberi İçin Gizlilik Politikası</h1>
+
+<p>İslam Rehberi olarak, Google Play Store ve Android için oluşturulmış diğer uygulama mağazalarından indirilerek erişilebilen uygulamamızın ziyaretçilerinin/kullanıcılarının gizliliği bizim için en önemli önceliktir. Bu Gizlilik Politikası belgesi, İslam Rehberi tarafından toplanan ve nasıl kullanıldığına dair bilgileri içermektedir.</p>
+
+<p>Gizlilik Politikamız hakkında daha fazla sorunuz varsa veya daha fazla bilgiye ihtiyacınız varsa, lütfen bizimle iletişime geçmekten çekinmeyin.</p>
+
+<h2>Log Dosyaları</h2>
+
+<p>İslam Rehberi, log dosyalarını kullanma konusunda standart bir prosedürü takip eder. Uygulama için tutulacak log dosyaları, uygulama çökme/donma bilgileri hakkındadır. Öte yandan kullanıcıların uygulamayı kullanırken yaşadığı çökme/donma gibi verileri, Android sürümü, cihaz markası, modeli gibi bilgiler içerir. Kişi özelinde ve kullanıcı ile birebir ilişkilendirilmiş veriler tarafımızca tutulmaz.
+Tüm barındırma şirketleri ve uygulama geliştiricileri daha iyi bir uygulama deneyimi sunabilmek için bunu yapar ve uygulama geliştirme işlemlerinin analitik bir parçasıdır. Log dosyaları tarafından toplanan bilgiler; mobil cihazın işletim sistemi sürümü, cihaz türü (tablet, akıllı aksesuarlar veya mobil cihaz), cihazda hali hazırda çalışan Android sürümü, ülke bilgisi. Bu bilgiler, kişisel olarak tanımlanabilir herhangi bir bilgiyle ilişkilendirilmez.
+Bilgilerin amacı, daha iyi bir uygulama deneyimi sağlayabilmek olup anonim olarak tutulur. İlgili bilgileri özel olarak tarafımızdaki bir sunucuda tutmayız. Bu bilgiler tarafımıza Google Play Store Developer Console tarafından sağlanır. Herhangi bir çökme/donma ve uyumsuzluğu müşteri özel olarak tarafımıza bildirdiğinde ise izlediğimiz yol, hata ile ilgili anonim verileri almak, ilgili geliştirmeleri yapmak ve (ilgili kayıt kullanıcı tarafından tarafımıza iletildiğinde ilk önce) kullanıcı ile ilişkilendirilmesi muhtemel bilgileri sistemimizden doğrudan silmektir. Ardından geliştirme sürecinde gerekli olan bilgileri uygulama geliştirme sürecinde kullanır ve ilgili kayıtları tamamen yok ederiz.</p>
+
+<h2>Google DoubleClick DART Çerezleri</h2>
+
+<p>Google, sitemizdeki üçüncü taraf satıcılarından biridir. Aynı zamanda, DART çerezleri olarak bilinen çerezleri kullanarak, ziyaretçilere www.website.com ve diğer internet sitelerindeki ziyaretlerine dayalı olarak reklam sunar. Ancak, ziyaretçiler Google'ın reklam ve içerik ağı Gizlilik Politikası'nda belirtilen URL adresini ziyaret ederek DART çerezlerinin kullanımını reddetmeyi seçebilirler – https://policies.google.com/technologies/ads</p>
+
+<h2>Gizlilik Politikaları</h2>
+
+<p>İslam Rehberi'nin reklam ortaklarının Gizlilik Politikası'nı bulmak için bu listeyi danışabilirsiniz.</p>
+
+<p>Üçüncü taraf reklam sunucuları veya reklam ağları, İslam Rehberi'nde görünen reklamlarda ve bağlantılarda kullanılan çerezler, JavaScript veya Web Beacon gibi teknolojileri kullanır. Bu teknolojiler, IP adresinizi otomatik olarak alırlar. Bu durum gerçekleştiğinde, bu teknolojiler reklam kampanyalarının etkinliğini ölçmek ve/veya ziyaret ettiğiniz web sitelerinde gördüğünüz reklam içeriğini kişiselleştirmek için kullanılır. </p>
+
+<p>İslam Rehberi'nin, üçüncü taraf reklamverenler tarafından kullanılan bu çerezlere erişimi veya kontrolü olmadığını unutmayın.</p>
+
+<p>Türkiye, Kara Avrupası, Birleşik Krallık ve Kaliforniya (Birleşik Devletler) bölgesinde yaşayan kullanıcılar, kendi ülkelerinin kişisel verilerin korunmasına yönelik mevzuat kapsamında tarafımızdan bilgi talep edebilirler. İlgili ülke/eyalet mevzuatına göre tarafımızca bilgi talepleri karşılanır.</p>
+
+<h2>Üçüncü Taraf Gizlilik Politikaları</h2>
+
+<p>İslam Rehberi'nin Gizlilik Politikası diğer reklam verenler veya web siteleri için geçerli değildir. Bu nedenle, daha ayrıntılı bilgi için lütfen daha fazla bilgi almak için bu üçüncü taraf reklam sunucularının ilgili Gizlilik Politikalarını incelemen
+
+izi tavsiye ediyoruz. Bu, uygulamalarını ve belirli seçeneklerden nasıl vazgeçileceği konusundaki talimatları içerebilir. </p>
+
+<p>Çerezleri bireysel tarayıcı seçenekleri aracılığıyla devre dışı bırakmayı seçebilirsiniz. Daha ayrıntılı bilgi için özel web tarayıcılarıyla çerez yönetimi hakkında daha fazla bilgi edinmek için tarayıcıların ilgili web sitelerinde bulunabilir. Çerezler Nedir?</p>
+
+<h2>Çocukların Bilgileri</h2>
+
+<p>İnterneti kullanırken çocukları koruma konusunda bir diğer önceliğimiz de çocukları korumaktır. Ebeveynleri ve vasileri, çevrimiçi etkinliklerini gözlemlemeye, katılmaya ve/veya yönlendirmeye teşvik ederiz.</p>
+
+<p>İslam Rehberi, 13 yaşın altındaki çocuklardan Kişisel Tanımlanabilir Bilgi toplamaz. Çocuğunuzun bu tür bilgileri web sitemizde sağladığını düşünüyorsanız, lütfen derhal bizimle iletişime geçmeyi ve böyle bilgilerin kayıtlarımızdan hızla kaldırılması için en iyi çabalarımızı göstereceğimize inanıyoruz.</p>
+
+<h2>Sadece Çevrimiçi Gizlilik Politikası</h2>
+
+<p>Bu uygulama, uygulama içi mesajlaşma, profil oluşturma, çevrim içi topluluklar ve gruplar kurmaya izin vermez. Bu yüzden tarafınızdan kişisel veri sağlamanızı istemeyiz.
+Öte yandan; Uygulamanın ücretsiz kalabilmesini sağlamak için reklamlar ile desteklemek zorundayız. Uygulamamızda yalnızca Google tarafından sunulan reklamlar bulunur. Google Admob-Adsense ve Google DoubleClick tarafından sağlanan gizlilik şartları tarafımızca da
+geçerlidir. Kullanıcının bunları ilgili reklam sağlayıcının sitesinden okumuş olduğu kabul edilir.
+</p>
+<h2>Rıza</h2>
+
+<p>Web sitemizi kullanarak, işbu Gizlilik Politikasına rıza gösteriyor ve Şartlar ve Koşullarına uygun olduğunu kabul ediyorsunuz.</p>

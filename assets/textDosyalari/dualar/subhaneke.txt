@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sübhaneke Duası Okunuşu ve Anlamı</title>
+</head>
+<body>
+    <h1>Sübhaneke Duası Okunuşu</h1>
+    <p><strong>Subhânekellâhumme ve bi hamdik ve tebârekesmuk ve teâlâ cedduk (ve celle senâuk *) ve lâ ilâhe ğayruk.</strong></p>
+
+    <h2>Sübhaneke Duası Anlamı</h2>
+    <p>Allah'ım! Sen eksik sıfatlardan pak ve uzaksın. Seni daima böyle tenzih eder ve överim. Senin adın mübarektir. Varlığın her şeyden üstündür. Senden başka ilah yoktur.</p>
+
+    <p><em>* Sübhâneke duası, sadece Cenaze namazında parantez içindeki “Ve celle senâük” cümlesi ile beraber okunur.</em></p>
+</body>
+</html>

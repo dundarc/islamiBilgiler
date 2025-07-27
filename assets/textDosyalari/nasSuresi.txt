@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Nas Suresi Türkçe Yazılışı ve Okunuşu</title>
+</head>
+<body>
+    <p><strong>Nas Suresinin Türkçe Yazılışı ve Okunuşu</strong></p>
+    <p><em>-Bismillâhi’r-Rahmâni’r-Rahîm.</em></p>
+    <p><em>1- Gul e’ûzu bi-Rabbi’n-nâs.</em></p>
+    <p><em>2- Meliki’n-nâs.</em></p>
+    <p><em>3- İlâhi’n-nâs.</em></p>
+    <p><em>4- Min şerri’l-vesvâsi’l-hânnâs.</em></p>
+    <p><em>5- Ellezî yuvesvisu fî sudûri’n-nâs.</em></p>
+    <p><em>6- Mine’l-cinneti ve’n-nâs.</em></p>
+    <p><strong>Nas Suresinin Türkçe Anlamı</strong></p>
+    <p><em>-Rahmân ve Rahîm olan Allah’ın adıyla.</em></p>
+    <p><em>1- “De ki: İnsanların Rabbine sığınırım.</em></p>
+    <p><em>2- İnsanların malikine,</em></p>
+    <p><em>3- İnsanların ilahına;</em></p>
+    <p><em>4- İnsanlara kötü şeyler fısıldayan o sinsi vesvesecinin şerrinden.</em></p>
+    <p><em>5- O ki, insanların göğüslerine vesvese verir.</em></p>
+    <p><em>6- Gerek cin, gerekse insanlardan.</em></p>
+    <p><em>* Nas suresi, insanların kalplerine vesvese sokan cin ve insan şeytanın şerrinden Allah'a sığınmak için okunur.</em></p>
+</body>
+</html>
