@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_html/flutter_html.dart';
+//import 'package:flutter_html/flutter_html.dart';
 
 
 class htmlViewer extends StatelessWidget {
@@ -11,6 +11,6 @@ class htmlViewer extends StatelessWidget {
   Widget build(BuildContext context) {
     return SingleChildScrollView(
         padding: const EdgeInsets.all(16.0),
-        child: Html(data: html));
+        child: Text('test'));
   }
 }
